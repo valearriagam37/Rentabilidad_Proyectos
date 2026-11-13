@@ -1,0 +1,10 @@
+# Librería para construir la aplicación web
+streamlit
+# Librería para manejo de tablas (DataFrames)
+pandas
+# Librería para cálculos numéricos
+numpy
+# Librería para gráficas interactivas
+plotly
+# Motor para generar el archivo Excel descargable
+openpyxl
